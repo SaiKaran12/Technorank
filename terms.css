@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+}
+
+
+.terms-main{
+    width: 70%;
+    height: auto;
+}
+
+.terms-internmain{
+    width: 70%;
+    height: auto;
+}
+
+.privacy-main{
+    width: 70%;
+    height: auto;
+}
+
+.dropmenu{
+    margin-top: 45px;
+}
