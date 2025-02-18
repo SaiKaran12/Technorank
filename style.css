@@ -6,6 +6,9 @@ body{
     margin: 0;
     background-color: white;
 }
+p{
+    text-align: justify;
+}
 nav ul li a:hover{
     color: blue;
 }
